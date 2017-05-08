@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string></string>
+	<string>qneb@qnebtencuvk.qr</string>
 	<key>contactName</key>
-	<string>Ånthokolski</string>
+	<string>daro</string>
 	<key>description</key>
-	<string>New shiny bundle for X.</string>
+	<string>Minimalistic WebPreview for TextMate with fine Typography and neat little extras.</string>
 	<key>name</key>
 	<string>D WebPreview</string>
 	<key>uuid</key>
